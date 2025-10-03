@@ -1,4 +1,4 @@
-# Graph API Webhooks Heroku Sample
+# Graph API Webhooks Hari
 
 This example is a [Hubot](https://hubot.github.com/) script that messages a chat room when a Facebook Page post is published using Facebook's [Graph API Webhooks](https://developers.facebook.com/docs/graph-api/webhooks/).  The message includes a link to the Facebook post.  The bot will post another message with the number of likes on the post after a configurable number of minutes.
 
